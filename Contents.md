@@ -1,4 +1,4 @@
-===================================Alpine Basics===================================
+== Alpine Basics 
 
 1. Weather
 
@@ -14,7 +14,7 @@
 
 7. Equipment
 
-===================================Tour Planning===================================
+== Tour Planning 
 
 8. Risk management(i) The human factor
 
@@ -26,7 +26,7 @@
 
 12. E-scale
 
-===================================On The Rock Face===================================
+== On The Rock Face 
 13. Knot techniques
 
 14. Partner check
@@ -47,7 +47,7 @@
 
 22. Lowering off & descending
 
-===================================Rescue Methods===================================
+== Rescue Methods 
 
 23. Overcoming the key spots
     - Prusiks

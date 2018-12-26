@@ -21,3 +21,6 @@ Castellanus
     
 Cumulonimbus
 ![](https://github.com/zzcistaken/RockGuideBook/blob/master/images/Cumulonimbus.jpg)
+
+A thunderstorm in Chamonix
+![](https://github.com/zzcistaken/RockGuideBook/blob/master/images/Thunderstorm.jpg)

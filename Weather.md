@@ -10,3 +10,14 @@ THUNDERSTORMS
     3. Observe cloud formation: Cumulus-->Castellanus-->Cumulonimbus (anvil shape).
     4. Sharp cloud edges and strong swelling (Castellanus) indicate a high risk of thunderstorms.
     5. Decide to retreat or abort the tour in good time.
+
+![](https://github.com/zzcistaken/RockGuideBook/blob/master/readme.jpg)
+    
+    Cumulus
+    ![](https://github.com/zzcistaken/RockGuideBook/blob/master/images/Cumulus.jpg)
+    
+    Castellanus
+    ![](https://github.com/zzcistaken/RockGuideBook/blob/master/images/Castellanus.jpg)
+    
+    Cumulonimbus
+    ![](https://github.com/zzcistaken/RockGuideBook/blob/master/images/Cumulonimbus.jpg)
